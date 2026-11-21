@@ -4,7 +4,7 @@ Archivos:
 - index.html: página principal.
 - styles.css: diseño adaptable a móviles y computadoras.
 - script.js: menú móvil y año automático.
-- assets/panama-skyline.svg: ilustración urbana original.
+- panama-skyline.svg: ilustración urbana original.
 
 WhatsApp configurado: +507 6234-3691
 
